@@ -4,3 +4,4 @@ dedicated.bat
 INFESTED.console.exe
 INFESTED.exe
 *.git/
+.gitignore
